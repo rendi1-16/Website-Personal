@@ -1,0 +1,3 @@
+# Redirect halaman utama ke login jika belum ada session
+# (Fallback jika index.php tidak redirect)
+DirectoryIndex login.php index.php
